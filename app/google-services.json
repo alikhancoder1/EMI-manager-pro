@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232939518711",
+    "project_id": "emi-manager-pro",
+    "storage_bucket": "emi-manager-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232939518711:android:fdbf74d6aaa6775d9af1f2",
+        "android_client_info": {
+          "package_name": "com.emimanager.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2asu03zVpra5OVegsE3FSflMS4Rg-n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

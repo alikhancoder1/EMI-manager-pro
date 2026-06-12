@@ -1,0 +1,6 @@
+{
+  "name": "EMI Tracker",
+  "description": "Premium Installment & EMI Management System with PKR Formatting, offline-first Room database, and Cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
